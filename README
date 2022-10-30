@@ -1,0 +1,5 @@
+This is just a note to show how I implemented internationalization for flutter with AWS Amplify UI Component.
+Nothing fancy, nothing crazy, but the purpose is to show an example which extends the official tutorial, given the ambiguity and spelling error it offerred.
+
+https://ui.docs.amplify.aws/flutter/connected-components/authenticator/customization
+https://docs.flutter.dev/development/accessibility-and-localization/internationalization
